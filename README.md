@@ -1,4 +1,4 @@
-# parallelism
+# Parallelism Playground
 Introduction into parallelism, concurrency and threading in Python
 
 <img src = "concurrency.png">
