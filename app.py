@@ -1,7 +1,6 @@
 from contextlib import asynccontextmanager
 from fastapi import FastAPI, UploadFile, HTTPException, File, Query
 from fastapi.responses import JSONResponse
-from typing import List, Optional
 import uvicorn
 import logging
 
